@@ -1,6 +1,6 @@
 # textdex-lib
 
-A zero-dependency key-value search tool for your text based projects
+A zero dependency key-value search tool for your text based projects
 
 textdex will provides a flexible way to search projects that may have gotten a little loosy goosey with their formatting. Your key value searches can have flexible delimiters with unlimited spaces on either side.  searches are also case insensitive.  meaning all the following formats will be found  with this search `./textdex keyval=name:john`
 
